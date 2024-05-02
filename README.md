@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Python**
 
-- 👨‍💻 All of my projects are available at [https://mrmihirsoni.github.io/Mihir-Portfolio/](https://mrmihirsoni.github.io/Mihir-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mrmihirsoni.github.io/Mihir-Portfolio/](https://mihirsoniportfolio.netlify.app)
 
 - 📫 How to reach me **ms6711534@gmail.com**
 
